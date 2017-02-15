@@ -1,0 +1,41 @@
+
+h1
+{
+  text-align: center;
+  background-color: #b7a7a3
+}
+img
+{
+  margin: 0 auto;
+  display: block;
+}
+#list
+{
+  text-align: center;
+  list-style-type: none;
+  font-size: x-large ;
+  box-sizing: inherit;
+}
+.marge
+{
+  border-style: double;
+  border-width: medium;
+  width: 50%;
+  margin: 50px auto;
+  padding: 10px 0;
+}
+.kids
+{
+  margin: 0 auto;
+  display: block;
+  width: 966px
+}
+body
+{
+  text-align: center;
+}
+.underline
+{
+  text-decoration: underline;
+  font-size: large;
+}
